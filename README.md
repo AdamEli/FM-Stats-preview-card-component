@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: (https://github.com/AdamEli/FM-Stats-preview-card-component)
--   Live Site URL: (https://fm-stats-preview-card-component-beta.vercel.app/)
+-   Solution URL: [Github](https://github.com/AdamEli/FM-Stats-preview-card-component)
+-   Live Site URL: [Stats Card](https://fm-stats-preview-card-component-beta.vercel.app/)
 
 ## My process
 
